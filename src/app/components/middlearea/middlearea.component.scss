@@ -1,5 +1,5 @@
 .rehber_label{
-    width: 80%;
+    width: 79%;
     margin-top: 5%;
     text-align: center;
     padding-bottom: 2%;
@@ -11,8 +11,8 @@
 }
 
 #container {
-  width: 15%;
-  height: 15%;
+  width: 100px;
+  height: 100px;
 }
 
 #container img {
@@ -28,9 +28,10 @@
 }
 
 .label_title{
-  font-size: 0.8vw;
+  font-size: 12px;
   font-family:cursive;
   font-weight: bold;
+  color: #255b7d;
 }
 
 .label_des{

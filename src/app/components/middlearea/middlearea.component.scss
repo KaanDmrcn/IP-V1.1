@@ -4,18 +4,27 @@
     text-align: center;
     padding-bottom: 2%;
     padding-top: 2%;
-    font-size: 1.2vw;
+    font-size: 1.1vw;
     font-family: 'Times New Roman', Times, serif;
     margin-bottom: 3%;
     color: #fff;
 }
 
+#container {
+  width: 15%;
+  height: 15%;
+}
+
+#container img {
+  width: 100%;
+}
+
 .deneme{
-  background-color: white;
+  background-color: rgb(168, 177, 207);
 }
 
 .deneme:hover{
-  background-color: rgb(168, 177, 207);
+  background-color: rgba(168, 177, 207, 0.493);
 }
 
 .label_title{
@@ -30,7 +39,7 @@
 }
 
 .baglantilar_color{
-    background-color: #255b7d;
+    background-color: #5987a3;
 }
 
 .rehber_background{
